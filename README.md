@@ -77,21 +77,22 @@ Software Awaiting Packing for Testing
 Dashboard Tracking Request Status 
 ![Requests Tracking Dashboard](images/SoftwareTrackingDashboard.png)
 
-**Requests Table:**
+**Tables:**
 
+Requests table
 ![Requests Table](images/requests-table.png)
+![Requests Table](images/requests-table2.png)
 
-**Deployment Interface:**
+Business Partners table
+![Requests Table](images/bp-table.png)
 
-![Deployment Interface](images/deployment-interface.png)
+Test Machines table
+![Test Machines](images/test-machines-table.png)
 
 **Automation Flow:**
 
-![Automation Flow](images/automation-flow.png)
+![Automation Flow](images/SummerRefreshSimplePoolDiagram.pdf)
 
-**Data Structure:**
-
-![Data Structure](images/SummerRefreshBasicDataStructure.png)
 ---
 
 ## 🧠 Lessons Learned
