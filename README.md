@@ -104,6 +104,15 @@ Three custom-built Airtable Interfaces:
 
 ![Automation Flow](images/SummerRefreshSimplePoolDiagram.png)
 
+**Example of automation**
+*For the sake of not adding many more screenshots, here is an example of one of the 5 automations*
+
+Condition 1: Catch approval, if the license is added in retrospect, will update the record to skip BP approval
+Condition 2: If it meets conditions to see a BP and is denied, send an email to the user to let them know it was denied.
+Condition 3: If it meets conditions to see a BP and it approved, update request status to approved so it can be packed for testing.
+
+![BP Approval Flow](images/ExampleAutomation.png)
+
 ---
 
 ## 🧠 Lessons Learned
