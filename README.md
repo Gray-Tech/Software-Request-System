@@ -84,9 +84,11 @@ Requests table
 ![Requests Table](images/requests-table2.png)
 
 Business Partners table
+
 ![Requests Table](images/bp-table.png)
 
 Test Machines table
+
 ![Test Machines](images/test-machines-table.png)
 
 **Automation Flow:**
