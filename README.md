@@ -55,43 +55,41 @@ Three custom-built Airtable Interfaces:
 
 ---
 
-## 📷 Screenshots
+## Interfaces:
 
-**Interfaces:**
-
-Software Request Form
+** Software Request Form: **
 ![Software Request Form](images/SoftwareRequestForm.png)
 
-Software Awaiting Test
+** Software Awaiting Test: **
 ![Software Awaiting Test](images/SoftwareAwaitingTest.png)
 
-Default Software List
+** Default Software List: **
 ![Default Software List ](images/DefaultSoftwareList.png)
 
-Business Partner Licence Approval Screen
+** Business Partner Licence Approval Screen: **
 ![BP Licence Screen](images/BPLicenceApprovalScreen.png)
 
-Software Awaiting Packing for Testing
+** Software Awaiting Packing for Testing: **
 ![Software Awaiting Packaging](images/SoftwareAwaitingPackaging.png)
 
-Dashboard Tracking Request Status 
+** Dashboard Tracking Request Status: **
 ![Requests Tracking Dashboard](images/SoftwareTrackingDashboard.png)
 
-**Tables:**
+## Tables:
 
-Requests table
+** Requests Table: **
 ![Requests Table](images/requests-table.png)
 ![Requests Table](images/requests-table2.png)
 
-Business Partners table
+** Business Partners Table: **
 
-![Requests Table](images/bp-table.png)
+![Business Partners Table](images/bp-table.png)
 
-Test Machines table
+** Test Machines Table: **
 
-![Test Machines](images/test-machines-table.png)
+![Test Machines Table](images/test-machines-table.png)
 
-**Automation Flow:**
+## Automation Flow:
 
 ![Automation Flow](images/SummerRefreshSimplePoolDiagram.png)
 
@@ -101,4 +99,5 @@ Test Machines table
 
 - Airtable's relational database model allows for clean, scalable structures.
 - Early focus on automation saves huge manual effort later.
-- Clear user-centric interfaces
+- Clear user-centric interfaces dramatically improve adoption rates and system longevity.
+
