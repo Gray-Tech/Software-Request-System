@@ -105,6 +105,7 @@ Three custom-built Airtable Interfaces:
 ![Automation Flow](images/SummerRefreshSimplePoolDiagram.png)
 
 **Example of automation**
+
 *For the sake of not adding many more screenshots, here is an example of one of the 5 automations*
 
 Condition 1: Catch approval, if the license is added in retrospect, will update the record to skip BP approval.
