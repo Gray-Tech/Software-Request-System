@@ -150,5 +150,5 @@ This project was a strong reminder that **the fundamentals of good system design
 Moving into Airtable felt natural because those principles stayed constant, even as the tools changed.
 I'm excited to continue building mini-projects, exploring deeper functionality, and sharpening my skills as a low-code developer. I even got a certification out of it:
 
-![Airtable Buider Certification](images/AirtableBuilderCert.png)
+![Airtable Buider Certification](images/AirtableBuilderCert.jpg)
 
