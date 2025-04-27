@@ -148,7 +148,7 @@ Although I feel confident with Airtable fundamentals, I’ve identified several 
 
 This project was a strong reminder that **the fundamentals of good system design — clean data structures, clear automation logic, and user-first thinking — apply across platforms**.  
 Moving into Airtable felt natural because those principles stayed constant, even as the tools changed.
+I'm excited to continue building mini-projects, exploring deeper functionality, and sharpening my skills as a low-code developer. I even got a certification out of it:
 
-I'm excited to continue building mini-projects, exploring deeper functionality, and sharpening my skills as a low-code developer.
-
+![Airtable Buider Certification](images/AirtableBuilderCert.png)
 
