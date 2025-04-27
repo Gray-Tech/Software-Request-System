@@ -120,7 +120,34 @@ Condition 3: If it meets conditions to see a BP and it approved, update request 
 
 ## 🧠 Lessons Learned
 
-- Airtable's relational database model allows for clean, scalable structures.
-- Early focus on automation saves huge manual effort later.
-- Clear user-centric interfaces dramatically improve adoption rates and system longevity.
+Over the course of this project, I moved from **zero Airtable experience** to completing both the **Intro to Airtable** and **Builder Essentials** paths, designing a real-world process from start to finish.  
+
+Some key takeaways from this learning sprint:
+
+- **Airtable’s relational database model** felt intuitive to me after a short time, especially because of my prior experience designing SharePoint Lists and managing relationships across Microsoft tools. Airtable expands on that foundation with a cleaner, more user-friendly structure that clicked quickly.
+- **Automation building** inside Airtable was surprisingly familiar thanks to my work with **Power Automate** — the principles of triggers, actions, and conditional logic carry over almost 1:1. Within hours, I was confident building multi-step flows with email notifications, approval branches, and record updates.
+- **Interfaces in Airtable** offer a fast, polished way to build user-centric forms and dashboards. Designing multiple Interfaces for different roles (Requestor, Business Partner, Deployment Team) reinforced how important **audience-focused design** is when trying to drive system adoption.
+- Creating a **Swimlane Diagram** for the first time helped me visualise parallel processes much more clearly than standard flowcharts — something I will keep using in future scoping work.
+
+---
+
+## 🔥 Areas for Further Growth
+
+Although I feel confident with Airtable fundamentals, I’ve identified several areas where I want to level up as I continue into the **Builder Advanced** path:
+
+- **Advanced Automation Logic**: Building complex branching flows and multi-table automations, using conditional lookups and more sophisticated triggers.
+- **Scripting**: Exploring Airtable’s Scripting Block to handle custom automation that goes beyond the standard action templates (e.g., looping through multiple records, applying mass updates).
+- **API Integration**: Starting to experiment with Airtable's API for basic data pushes and pulls, understanding how Airtable fits into larger system architectures.
+- **Permissions Management**: Designing secure, role-based Interfaces that maintain data visibility without overcomplicating user experience.
+- **Polished Interface Design**: Pushing my Interface work further with better visual hierarchy, field grouping, and user onboarding guidance.
+
+---
+
+## ✨ Closing Thoughts
+
+This project was a strong reminder that **the fundamentals of good system design — clean data structures, clear automation logic, and user-first thinking — apply across platforms**.  
+Moving into Airtable felt natural because those principles stayed constant, even as the tools changed.
+
+I'm excited to continue building mini-projects, exploring deeper functionality, and sharpening my skills as a low-code developer.
+
 
