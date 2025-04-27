@@ -93,7 +93,7 @@ Test Machines table
 
 **Automation Flow:**
 
-![Automation Flow](images/SummerRefreshSimplePoolDiagram.pdf)
+![Automation Flow](images/SummerRefreshSimplePoolDiagram.png)
 
 ---
 
