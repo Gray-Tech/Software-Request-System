@@ -140,6 +140,7 @@ Although I feel confident with Airtable fundamentals, I’ve identified several 
 - **API Integration**: Starting to experiment with Airtable's API for basic data pushes and pulls, understanding how Airtable fits into larger system architectures.
 - **Permissions Management**: Designing secure, role-based Interfaces that maintain data visibility without overcomplicating user experience.
 - **Polished Interface Design**: Pushing my Interface work further with better visual hierarchy, field grouping, and user onboarding guidance.
+- **Polished Automation**: Going back through my automations and making sure to use correct triggers e.g. using "When a record matches conditions" instead of "When record is updated" to trigger less often.
 
 ---
 
