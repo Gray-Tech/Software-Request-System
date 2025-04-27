@@ -24,6 +24,10 @@ The Airtable database consists of four interconnected tables:
 - **Testing Machines**: Devices available for software testing.
 - **Default Software List**: Software already installed by default for user visibility.
 
+**Entity Relationship Diagram**
+
+![Software Requests ERD](images/SoftwareRequestERD.png)
+
 ---
 
 ## 🤖 Key Automations
@@ -82,10 +86,6 @@ Three custom-built Airtable Interfaces:
 ![Requests Tracking Dashboard](images/SoftwareTrackingDashboard.png)
 
 ## Tables:
-
-**Entity Relationship Diagram**
-
-![Software Requests ERD](images/SoftwareRequestERD.png)
 
 **Requests Table:**
 
