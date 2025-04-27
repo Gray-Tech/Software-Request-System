@@ -57,7 +57,19 @@ Three custom-built Airtable Interfaces:
 
 ## 📷 Screenshots
 
-> _Note: Add your screenshots below once uploaded._
+**Interfaces:**
+
+![Software Request Form](images/SoftwareRequestForm.png)
+
+![Software Awaiting Test](images/SoftwareAwaitingTest.png)
+
+![Default Software List ](images/DefaultSoftwareList.png)
+
+![BP Licence Screen](images/BPLicenceApprovalScreen.png)
+
+![Software Awaiting Packaging](images/SoftwareAwaitingPackaging.png)
+
+![RequestsTracking Dashboard](images/SoftwareTrackingDashboard.png)
 
 **Requests Table:**
 
@@ -73,7 +85,7 @@ Three custom-built Airtable Interfaces:
 
 **Data Structure:**
 
-![Automation Flow](images/SummerRefreshBasicDataStructure.png)
+![Data Structure](images/SummerRefreshBasicDataStructure.png)
 ---
 
 ## 🧠 Lessons Learned
