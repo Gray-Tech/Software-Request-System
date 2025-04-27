@@ -71,6 +71,9 @@ Three custom-built Airtable Interfaces:
 
 ![Automation Flow](images/automation-flow.png)
 
+**Data Structure:**
+
+![Automation Flow](images/SummerRefreshBasicDataStructure.png)
 ---
 
 ## 🧠 Lessons Learned
